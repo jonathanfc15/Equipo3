@@ -1,0 +1,7 @@
+DEFINE abc 3.14
+DEFINE mnp "Hola mundo"
+DEFINE xyz 12/03/2024
+asasd asdasd asdas
+PRINT "Mi primer programa"
+PRINT 10 + abc
+PRINT "Fin" * "End"

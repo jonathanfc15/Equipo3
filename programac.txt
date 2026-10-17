@@ -1,0 +1,9 @@
+// ejemplo
+int main() {
+    float x = 3.14e-2;
+    char c = '\n';
+    if (x >= 0 && x != 1) {
+        x++;
+    }
+    return 0xFF;
+}
