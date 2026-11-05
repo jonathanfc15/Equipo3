@@ -1,0 +1,3 @@
+Nombre: Camila Fernanda | Apellido: Villeda Mera | Matrícula: 546520 | Teléfono: 7722576649
+Nombre: Jose Roberto | Apellido: Cruz Vergara | Matrícula: 485927 | Teléfono: 7734567657
+Nombre: Jose Juan Carlos | Apellido: Verdi Baltazar | Matrícula: 546782 | Teléfono: 5546746758
